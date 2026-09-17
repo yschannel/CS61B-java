@@ -1,4 +1,4 @@
-package hw.hw0;
+package hw.hw0A;
 
 public class ClassNameHere{
     public static int max(int[] m){

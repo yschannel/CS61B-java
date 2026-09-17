@@ -1,4 +1,4 @@
-package demo;
+package demo.ch1;
 
 public class Extra5horse {
     public static void main(){

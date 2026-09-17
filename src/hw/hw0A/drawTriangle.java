@@ -1,4 +1,4 @@
-package hw.hw0;
+package hw.hw0A;
 
 import java.util.Scanner;
 
