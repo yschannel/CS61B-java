@@ -1,4 +1,4 @@
-package demo.ch2.dogs;
+package demo.ch2.Dog;
 
 public class DogLauncher {
     public static void main(String[] args){
